@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Ronald Gordon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center"><b>Junior Software Developer | Cloud & Fullstack Enthusiast</b></p>
 
 <br>
 	
@@ -11,13 +11,13 @@
 - :computer: **Junior Software Developer**, passionate about technology.  
 - :mortar_board: Student of **Systems and Computer Engineering** at the **Technological University of Panama (UTP)**.  
 - :cloud: Interested in **cloud architecture**, **automation**, and **fullstack development**.  
-- :books: Always learning new things and improving my skills.  *
+- - :books: Always learning new things and improving my skills.
 - :rocket: Open to new job opportunities and challenging projects.
 
 <br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+## 📈 Competitive Programming
 
 <p align="center">
 	<a href="https://leetcode.com/u/ronald25/">
