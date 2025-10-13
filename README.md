@@ -192,9 +192,10 @@
 
 <p align="center">
   <img
-    src="https://github.com/Ron-25/Ron-25/blob/output/metrics.svg"
+    src="https://raw.githubusercontent.com/Ron-25/Ron-25/output/metrics.svg"
     alt="GitHub Metrics Overview" />
 </p>
+
 
 </details>
 
