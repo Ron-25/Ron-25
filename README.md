@@ -295,8 +295,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ron-25/Ron-25/blob/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake animation" src="https://github.com/Ron-25/Ron-25/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ron-25/Ron-25/blob/output/github-contribution-grid-snake-dark.svg?v=3">
+    <img alt="Snake animation" src="https://github.com/Ron-25/Ron-25/blob/output/github-contribution-grid-snake.svg?v=3">
   </picture>
 </p>
+
 
