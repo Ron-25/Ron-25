@@ -90,7 +90,7 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats Metrics</h3></summary>
+<details><summary><h3> 🔥 Streak Stats & Metrics</h3></summary>
 
 <br/>
 
@@ -102,9 +102,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ron-25&show_icons=true&count_private=true&theme=tokyonight"
-    alt="GitHub Stats"/>
+    src="https://raw.githubusercontent.com/Ron-25/Ron-25/main/github-metrics.svg"
+    alt="GitHub Metrics Overview"
+  />
 </p>
+
+</details>
 
 </details>
 
