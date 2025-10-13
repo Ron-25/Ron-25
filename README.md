@@ -53,6 +53,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,supabase" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
 </p>
 
 
