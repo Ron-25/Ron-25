@@ -182,6 +182,13 @@
 
 ----
 
+<!-- 🔢 Total contributions (public + private) -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Ron-25/Ron-25/output/metrics-header.svg?v=1"
+    alt="Total Contributions (public + private) — last 12 months" />
+</p>
+
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Ron-25&theme=tokyonight_duo"
@@ -190,14 +197,15 @@
 
 <br/>
 
+<!-- Panel completo con PRs / Issues / Repos / Stars -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Ron-25/Ron-25/output/metrics.svg"
+    src="https://raw.githubusercontent.com/Ron-25/Ron-25/output/metrics.svg?v=1"
     alt="GitHub Metrics Overview" />
 </p>
 
-
 </details>
+
 
   
 	
