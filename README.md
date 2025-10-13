@@ -96,8 +96,10 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Ron-25&theme=tokyonight_duo"
-    alt="Ron-25 Streak Stats" />
+    <img
+  src="https://github-readme-stats.vercel.app/api?username=Ron-25&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"
+  alt="GitHub Stats"/>
+
 </p>
 
 <p align="center">
