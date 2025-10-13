@@ -52,7 +52,7 @@
 ### 📂 Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,supabase" />
 </p>
 
 
