@@ -191,8 +191,9 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Ron-25/Ron-25/output/metrics.svg?v=1"
-    alt="GitHub Metrics Overview" />
+    src="https://raw.githubusercontent.com/Ron-25/Ron-25/main/github-metrics.svg"
+    alt="GitHub Metrics Overview"
+  />
 </p>
 
 </details>
