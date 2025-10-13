@@ -180,13 +180,6 @@
 
 <details><summary><h3> 🔥 Streak Stats + Full Metrics</h3></summary>
 
-----
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Ron-25/Ron-25/output/metrics-contributions.svg?v=1"
-    alt="Total contributions in the last year (public + private)" />
-</p>
 
 <p align="center">
   <img
