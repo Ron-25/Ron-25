@@ -46,7 +46,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,java,net,c,cs,nodejs,js&theme=dark" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,flutter,java,net,c,cs,nodejs,js,elixir,dart&theme=dark" alt="Tech stack icons" />
 </p>
 
 ### 📂 Databases
