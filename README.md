@@ -178,14 +178,7 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats + Full Metrics</h3></summary>
-
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Ron-25&theme=tokyonight_duo"
-    alt="Ron-25 Streak Stats" />
-</p>
+<details><summary><h3> 🔥 Streak Stats Metrics</h3></summary>
 
 <br/>
 
