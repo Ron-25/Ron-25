@@ -15,21 +15,15 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Ron-25
+
+          base: ""
           template: classic
-          base: header, activity, community, repositories, achievements
-          config_timezone: America/Costa_Rica
-          repositories_affiliations: owner, collaborator, organization_member
-          commits_authoring: Ron-25,ronald.gordon@netforemost.com
-          commits_private: yes
-          plugin_contributions: yes
-          plugin_traffic: yes
-          plugin_stars: yes
+
           plugin_followup: yes
-          plugin_followup_sections: repositories, user
-          plugin_lines: yes
-          plugin_code: yes
+          plugin_followup_sections: user
           plugin_activity: yes
-          plugin_repositories: yes
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_analysis_timeout: 30
+          plugin_activity_limit: 10
+
+          output_action: commit
+          committer_branch: main
+          filename: github-metrics.svg
