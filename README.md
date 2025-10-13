@@ -191,15 +191,25 @@
 ----
 	
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
-<br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Ron-25&show_icons=true&count_private=true&hide_title=false&hide_rank=false&theme=tokyonight&include_all_commits=true&v=1"
+      alt="Ron-25 GitHub stats"
+      height="170" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Ron-25&layout=compact&langs_count=10&theme=tokyonight&v=1"
+      alt="Top Languages"
+      height="170" />
+  </a>
+</p>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Ron-25&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&v=1"
+    alt="GitHub Streak - Ron-25" />
+</p>
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
