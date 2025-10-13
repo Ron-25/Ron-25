@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Generate snake SVGs
         uses: Platane/snk@v3
@@ -19,6 +18,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.snake-token }}  # <-- CORRECTO
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
@@ -26,4 +27,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.snake-token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
