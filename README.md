@@ -182,11 +182,10 @@
 
 ----
 
-<!-- 🔢 Total contributions (public + private) -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Ron-25/Ron-25/output/metrics-header.svg?v=1"
-    alt="Total Contributions (public + private) — last 12 months" />
+    src="https://raw.githubusercontent.com/Ron-25/Ron-25/output/metrics-contributions.svg?v=1"
+    alt="Total contributions in the last year (public + private)" />
 </p>
 
 <p align="center">
@@ -197,7 +196,6 @@
 
 <br/>
 
-<!-- Panel completo con PRs / Issues / Repos / Stars -->
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Ron-25/Ron-25/output/metrics.svg?v=1"
@@ -205,6 +203,7 @@
 </p>
 
 </details>
+
 
 
   
