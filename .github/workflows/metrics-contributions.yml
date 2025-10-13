@@ -1,0 +1,31 @@
+name: GitHub Metrics — Contributions (public + private)
+
+on:
+  schedule:
+    - cron: "0 2 * * *"      # diario 02:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}   # PAT classic con repo + read:user
+          user: Ron-25
+
+          # Render solo el calendario anual con el TOTAL visible
+          base: ""                               # sin header/base
+          template: classic
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # 12 meses completos
+          config_timezone: America/Costa_Rica
+          config_display: large                  # hace el título/contador más grande
+
+          # Output en la rama 'output'
+          output_action: commit
+          committer_branch: output
+          filename: metrics-contributions.svg
