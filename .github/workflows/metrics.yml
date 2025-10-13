@@ -20,6 +20,8 @@ jobs:
           config_timezone: America/Costa_Rica
           repositories_affiliations: owner, collaborator, organization_member
           commits_authoring: Ron-25,ronald.gordon@netforemost.com
+          commits_private: yes
+          plugin_contributions: yes
           plugin_traffic: yes
           plugin_stars: yes
           plugin_followup: yes
