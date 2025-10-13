@@ -96,11 +96,10 @@
 
 <p align="center">
   <img
-    <img
-  src="https://github-readme-stats.vercel.app/api?username=Ron-25&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"
-  alt="GitHub Stats"/>
-
+    src="https://github-readme-stats.vercel.app/api?username=Ron-25&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"
+    alt="GitHub Stats"/>
 </p>
+
 
 <p align="center">
   <img
