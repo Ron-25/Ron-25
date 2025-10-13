@@ -49,6 +49,12 @@
   <img src="https://skillicons.dev/icons?i=python,flutter,java,net,c,cs,nodejs,js&theme=dark" alt="Tech stack icons" />
 </p>
 
+### 📂 Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase" />
+</p>
+
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
