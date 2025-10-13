@@ -28,7 +28,7 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="https://github.com/Ron-25" target="_blank">
-  		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  		<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 	</a>
 	<a href="https://www.linkedin.com/in/ronald-gordon-72408b285/" target="_blank">
   		<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ronald Gordon"/>
@@ -36,8 +36,8 @@
 	<a href="mailto:barriaronald4@gmail.com" target="_blank">
   		<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="barriaronald42@gmail.com" />
 	</a>
-
 </p>
+
 
 
 
