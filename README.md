@@ -11,7 +11,7 @@
 - :computer: **Junior Software Developer**, passionate about technology.  
 - :mortar_board: Student of **Systems and Computer Engineering** at the **Technological University of Panama (UTP)**.  
 - :cloud: Interested in **cloud architecture**, **automation**, and **fullstack development**.  
-- - :books: Always learning new things and improving my skills.
+- :books: Always learning new things and improving my skills.
 - :rocket: Open to new job opportunities and challenging projects.
 
 <br>
